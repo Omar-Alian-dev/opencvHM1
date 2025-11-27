@@ -21,4 +21,4 @@ This project demonstrates the configuration and usage of OpenCV with C++ in Visu
 3.  Press **`q`** or **`ESC`** to close the window and exit the program.
 
 ## Author
-[Omar Alina]
+[Omar Alian]
